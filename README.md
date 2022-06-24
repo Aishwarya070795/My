@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aishwarya Gaikwad</h1>
 <h3 align="center">Data Scientist</h3>
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwarya070795&label=Profile%20views&color=0e75b6&style=flat" alt="aishwarya070795" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aishwarya070795" alt="aishwarya070795" /></a> </p>
 
 - 💬 Ask me about **Python, Data scientist, Data Analyst**
 
