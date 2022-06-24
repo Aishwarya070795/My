@@ -1,3 +1,4 @@
+[![MasterHead](https://i.gifer.com/2ROU.gif)](https://aishwarya070795.io)
 <h1 align="center">Hi 👋, I'm Aishwarya Gaikwad</h1>
 <h3 align="center">Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
